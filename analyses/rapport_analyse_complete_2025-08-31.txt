@@ -1,0 +1,51 @@
+============================================================
+RAPPORT D'ANALYSE COMPLÈTE - 2025-08-31
+============================================================
+
+RÉSUMÉ GÉNÉRAL:
+- Nombre de symboles: 589
+- Période d'analyse: 3 jours (du 2025-08-28 au 2025-08-30)
+- Symboles avec données récentes: 517
+
+TOP 10 PERFORMANCES (variation totale):
+       prix_actuel  variation_totale_pct  volatilite_quotidienne_pct
+TERBS       0.0030            200.000000                         NaN
+ABNX        3.4360             48.423326                    7.160935
+PVL         1.4860             16.549020                   10.044934
+TNG         1.1260             15.843621                   17.063232
+XIL         4.1100             11.684783                    3.454812
+CRLA       94.3800             11.035294                    0.519371
+ADOC        8.3600              9.711286                   16.335562
+CFI         1.9300              9.659091                    6.830009
+PROAC       0.0605              8.035714                    5.682108
+CAF       103.9200              7.134021                    3.029767
+
+FLOP 10 PERFORMANCES (variation totale):
+      prix_actuel  variation_totale_pct  volatilite_quotidienne_pct
+LEBL       0.3000            -21.052632                   14.886459
+TAYN       2.5000            -16.666667                   11.785113
+FPG        0.0952            -13.454545                    9.513800
+MAAT       4.4700            -11.309524                    3.885460
+EEM        3.0200            -11.176471                    1.858590
+FIPP       0.1130             -9.600000                    6.788225
+SEC        2.3000             -8.730159                    1.812387
+NXI        8.7460             -8.274777                    3.943064
+SRP        0.4740             -7.782101                    2.106001
+BIOS       0.0026             -7.142857                    0.093533
+
+CORRÉLATIONS FORTES DÉTECTÉES:
+  RMS <-> FCMC: 1.00
+  RMS <-> ODET: 1.00
+  RMS <-> DPAM: -1.00
+  RMS <-> MALT: -1.00
+  RMS <-> RBT: 1.00
+  RMS <-> FORE: -1.00
+  RMS <-> AREIT: -1.00
+  RMS <-> MC: 1.00
+  RMS <-> CDI: 1.00
+  FCMC <-> ODET: 1.00
+
+🎯 RECOMMANDATIONS AUTOMATISÉES:
+⚡ Symboles très volatils à surveiller: TNG, ADOC, LEBL, TAYN, CYAD
+
+============================================================

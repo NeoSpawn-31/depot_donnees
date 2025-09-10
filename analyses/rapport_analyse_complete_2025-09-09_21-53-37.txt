@@ -1,0 +1,42 @@
+📊 RAPPORT D'ANALYSE COMPLET
+==================================================
+
+📄 Fichier analysé: euronext_enrichi_ibkr_2025-09-09_21-31-28.csv
+📅 Date d'analyse: 09/09/2025 21:53:37
+📊 Nombre total de lignes: 587
+
+🔍 RÉSUMÉ DE L'ENRICHISSEMENT IBKR
+-----------------------------------
+  OK_HIST: 552 (94.0%)
+  NO_HIST_DATA: 27 (4.6%)
+  NOT_FOUND: 8 (1.4%)
+
+💰 STATISTIQUES DES PRIX
+-------------------------
+  Nombre de prix: 552
+  Prix moyen: 81.64€
+  Prix médian: 19.08€
+  Prix minimum: 0.00€
+  Prix maximum: 8470.00€
+  Écart-type: 398.93€
+
+🏢 RÉPARTITION PAR MARCHÉ
+-------------------------
+  Euronext Paris: 342 (58.3%)
+  Euronext Amsterdam: 119 (20.3%)
+  Euronext Brussels: 98 (16.7%)
+  Euronext Brussels, Paris: 6 (1.0%)
+  Euronext Amsterdam, Brussels: 6 (1.0%)
+  Euronext Brussels, Amsterdam: 5 (0.9%)
+  Euronext Paris, Brussels: 3 (0.5%)
+  Euronext Amsterdam, Paris: 3 (0.5%)
+  Euronext Paris, Amsterdam, Brussels: 2 (0.3%)
+  Euronext Paris, Amsterdam: 1 (0.2%)
+  Euronext Amsterdam, Brussels, Paris: 1 (0.2%)
+  Euronext Brussels, Amsterdam, Paris: 1 (0.2%)
+
+💱 RÉPARTITION PAR DEVISE
+-------------------------
+  EUR: 582 (99.1%)
+  USD: 3 (0.5%)
+  GBP: 2 (0.3%)

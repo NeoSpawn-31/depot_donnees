@@ -1,0 +1,19 @@
+RAPPORT D'ANALYSE COMPLÈTE - 2025-09-05
+------------------------------------------------------------
+Nombre total de lignes analysées: 1536
+Nombre de symboles uniques: 589
+Nombre de dates uniques: 3
+Plage de dates: 2025-08-22 00:00:00 à 2025-09-04 00:00:00
+Symboles avec données IBKR: 1449/1536 (94.3%)
+
+TOP 10 SYMBOLES PAR VOLATILITÉ:
+- ABNX: 18.04%
+- CFI: 17.68%
+- S30: 15.98%
+- LEBL: 14.89%
+- HCO: 14.69%
+- PVL: 14.39%
+- CYAD: 13.69%
+- AELIS: 13.68%
+- TNG: 13.64%
+- EEM: 12.03%
