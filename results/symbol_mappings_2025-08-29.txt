@@ -1,0 +1,6 @@
+# MAPPINGS SYMBOLES EURONEXT -> IBKR
+# À intégrer dans SYMBOL_MAPPING pour les prochaines exécutions
+
+"74SW": "AXW",  # Découvert automatiquement
+"INFE": "INFE.OLD",  # Découvert automatiquement
+"YOUNI": "HT5",  # Découvert automatiquement

@@ -1,0 +1,35 @@
+RÉSUMÉ ENRICHISSEMENT EURONEXT-IBKR - 2025-09-04
+==================================================
+
+ÉTAT DU MARCHÉ: POST_MARKET (fermeture à 17h30, il est 18:43)
+
+DONNÉES EURONEXT:
+• Total symboles traités: 587
+• Contrats IBKR trouvés: 570
+• Avec prix: 570
+• Taux de succès contrats: 97.1%
+• Taux de succès prix: 97.1%
+
+CAPITAL DISPONIBLE:
+• Cash brut: 106.40€
+• Après frais (4€): 102.40€
+
+SOURCES DE PRIX:
+• CLOSE_TICKER: 570 (97.1%)
+• NO_DATA: 4 (0.7%)
+
+RÉPARTITION PAR STATUT:
+• OK: 570 (97.1%)
+• CONTRACT_NOT_FOUND: 13 (2.2%)
+• NO_PRICE_DATA: 4 (0.7%)
+
+MAPPINGS DÉCOUVERTS:
+• 74SW -> AXW
+• AGIL -> AGIL
+• CABLE -> GIGB
+• YOUNI -> HT5
+
+PORTEFEUILLE ACTUEL:
+• Nombre de positions: 0
+• Cash disponible: 106.40€
+

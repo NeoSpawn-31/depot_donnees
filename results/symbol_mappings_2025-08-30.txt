@@ -1,0 +1,7 @@
+# MAPPINGS SYMBOLES EURONEXT -> IBKR
+# À intégrer dans SYMBOL_MAPPING pour les prochaines exécutions
+
+"74SW": "AXW",  # Découvert automatiquement
+"AGIL": "AGIL",  # Découvert automatiquement
+"CABLE": "GIGB",  # Découvert automatiquement
+"YOUNI": "HT5",  # Découvert automatiquement

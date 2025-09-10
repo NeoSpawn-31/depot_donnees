@@ -1,0 +1,90 @@
+RÉSUMÉ ENRICHISSEMENT EURONEXT-IBKR - 2025-08-31
+==================================================
+
+ÉTAT DU MARCHÉ: WEEKEND
+
+DONNÉES EURONEXT:
+• Total symboles traités: 588
+• Contrats IBKR trouvés: 555
+• Avec prix: 555
+• Taux de succès contrats: 94.4%
+• Taux de succès prix: 94.4%
+
+CAPITAL DISPONIBLE:
+• Cash brut: 106.40€
+• Après frais (4€): 102.40€
+
+SOURCES DE PRIX:
+• CLOSE_TICKER: 539 (91.7%)
+• NO_DATA: 20 (3.4%)
+• HISTORICAL: 16 (2.7%)
+
+RÉPARTITION PAR STATUT:
+• OK: 555 (94.4%)
+• NO_PRICE_DATA: 20 (3.4%)
+• CONTRACT_NOT_FOUND: 13 (2.2%)
+
+MAPPINGS DÉCOUVERTS:
+• 74SW -> AXW
+• AGIL -> AGIL
+• CABLE -> GIGB
+
+PORTEFEUILLE ACTUEL:
+• Nombre de positions: 0
+• Cash disponible: 106.40€
+
+
+OPPORTUNITÉS DE TRADING DÉTECTÉES: 10
+TOP OPPORTUNITÉS TRADING
+========================================
+Capital disponible (après frais): 102.40€
+
+#1 FOAF -> FOAF
+   Prix: 13.50€
+   Score: 14/100
+   Signaux: PRIX_OPTIMAL
+   Recommandation: 1.0 actions = 15.50€
+   Horizon: 3-5 jours
+   Stop-Loss: 12.42€ (-8%)
+   Take-Profit: 14.85€ (+10%)
+
+#2 ARVEN -> ARVEN
+   Prix: 5.26€
+   Score: 8/100
+   Signaux: 
+   Recommandation: 2.0 actions = 12.52€
+   Horizon: 3-5 jours
+   Stop-Loss: 4.84€ (-8%)
+   Take-Profit: 5.79€ (+10%)
+
+#3 NAI -> NAI
+   Prix: 9.40€
+   Score: 8/100
+   Signaux: 
+   Recommandation: 1.0 actions = 11.40€
+   Horizon: 3-5 jours
+   Stop-Loss: 8.65€ (-8%)
+   Take-Profit: 10.34€ (+10%)
+
+#4 NRP -> NRP
+   Prix: 7.20€
+   Score: 8/100
+   Signaux: 
+   Recommandation: 2.0 actions = 16.40€
+   Horizon: 3-5 jours
+   Stop-Loss: 6.62€ (-8%)
+   Take-Profit: 7.92€ (+10%)
+
+#5 BEVER -> BEVER
+   Prix: 2.80€
+   Score: 0/100
+   Signaux: 
+   Recommandation: 5.0 actions = 16.00€
+   Horizon: 3-5 jours
+   Stop-Loss: 2.58€ (-8%)
+   Take-Profit: 3.08€ (+10%)
+
+STRATÉGIE RECOMMANDÉE:
+   • Diversification: Top 2-3 positions
+   • Capital utilisé: 39.42€ / 102.40€
+   • Réserve: 62.98€ pour opportunités
